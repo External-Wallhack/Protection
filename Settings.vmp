@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+	<Protection
+		InputFileName=".\injector.exe"
+		Options="73672"
+		CheckKernelDebugger="true"
+		VMCodeSectionName=".upx0"
+		VMExecutorCount="3"
+		>
+		<Messages>
+			<Message
+				Id="0"
+			/>
+			<Message
+				Id="1"
+			/>
+			<Message
+				Id="2"
+			/>
+			<Message
+				Id="3"
+			/>
+		</Messages>
+		<Folders
+		/>
+		<Procedures
+		/>
+	</Protection>
+	<DLLBox
+	/>
+	<Script
+	/>
+</Document>
